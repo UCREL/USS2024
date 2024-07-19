@@ -1,5 +1,5 @@
 # USS2024
-This repository contains the materials for the UCREL NLP summer school 2024, for more details see: https://ucrel.lancs.ac.uk/uss2024/
+This repository contains links to the materials for the UCREL NLP summer school 2024, for more details see: https://ucrel.lancs.ac.uk/uss2024/
 
 Pre-training
 * [Getting Started with Google Colab Notebook from Your Gmail Account](https://github.com/dml2611/google-colab-tutorial) to familiarise yourself with Google Colab 
