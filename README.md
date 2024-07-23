@@ -7,7 +7,7 @@ Pre-training
 
 Main sessions
 * Session 1 - [Text Visualisation and Summarisation](https://github.com/UCREL/Session1_Visualisation_and_Summarisation)
-* Session 2 - Question Answering & Information Retrieval
+* Session 2 - [Question Answering & Information Retrieval](https://github.com/UCREL/Session_2_Question-Answering-Information-Retrieval/)
 * Session 3 - [Semantic Analysis](https://github.com/UCREL/Session_3_Semantic_Analysis)
 * Session 4 - [Quality Estimation for Machine Translation](https://github.com/UCREL/Session-4-Quality-Estimation-for-Machine-Translation-)
 * Session 5 - [Large Language Models (LLMs)](https://github.com/UCREL/Session_5_Large_Language_Models)
