@@ -12,5 +12,5 @@ Main sessions
 * Session 4 - [Quality Estimation for Machine Translation](https://github.com/UCREL/Session-4-Quality-Estimation-for-Machine-Translation-)
 * Session 5 - [Large Language Models (LLMs)](https://github.com/UCREL/Session_5_Large_Language_Models)
 * Session 6 - [LLM-Based Emotion Analysis](https://github.com/UCREL/Session-6-LLM-Based-Emotion-Analysis)
-* Session 7 - Docker for NLP 101
+* Session 7 - [Docker for NLP 101](https://github.com/UCREL/Session_7_Docker_101a)
 * Session 8 - [Mini Hackathon and Team Collaboration](https://github.com/UCREL/USS2024_Session_8_Hackathon)
