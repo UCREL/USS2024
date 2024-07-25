@@ -14,3 +14,6 @@ Main sessions
 * Session 6 - [LLM-Based Emotion Analysis](https://github.com/UCREL/Session-6-LLM-Based-Emotion-Analysis)
 * Session 7 - [Docker for NLP 101](https://github.com/UCREL/Session_7_Docker_101a)
 * Session 8 - [Mini Hackathon and Team Collaboration](https://github.com/UCREL/USS2024_Session_8_Hackathon)
+
+Keynote slides
+- [Prof. Udo Kruschwitz: Beyond the Ivory Tower: Exploring the Reality of Professional Search Beyond Academic Advancements in NLP and IR](https://github.com/UCREL/USS2024/blob/main/keynotes/UCREL_talk_ProfSearch_Jul_2024.pdf)
